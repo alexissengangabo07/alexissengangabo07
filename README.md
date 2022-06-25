@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Senga Ngabo 🚀🚀</h1>
-![Long Life Learner](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=bold&lines=Web+developer;Long+life+learner)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&lines=Web+Developer;Long+Life+Learner)](https://git.io/typing-svg)
 <h3 align="center">A passionate full stack developer from Democratic Republic of Congo, proficient with JavaScript, React/Redux, Nodejs/Express, SQL. I am open to new opportunities and challenges.</h3>
 
 - 🔭 I’m currently working on [personal projects](https://github.com/alexissengangabo07?tab=repositories)
