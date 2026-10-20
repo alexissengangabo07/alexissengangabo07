@@ -19,8 +19,7 @@ Based in Goma, DR Congo · Open to remote and international opportunities.
 
 I'm a full stack developer working daily with the JavaScript/TypeScript ecosystem. I design and ship complete features: REST APIs, real-time services, relational and document data models, and responsive React / Next.js front ends, on web and mobile.
 
-<!-- TODO: add 1 sentence with your real years of experience and your strongest result, e.g.
-"X+ years building [type of products] for [type of clients], including [measurable result]." -->
+I build software that works in the field. Since 2020, I have delivered management systems adopted by local businesses, and I am now building **AfyaCare**, a platform that runs an entire hospital. I own the full chain: requirements analysis, database design, development with React and Node.js, deployment and user training.
 
 **What I bring to a team**
 - Clean, maintainable code and pragmatic architecture
@@ -117,11 +116,33 @@ I'm a full stack developer working daily with the JavaScript/TypeScript ecosyste
 
 ## 💼 Experience
 
-<!-- TODO: fill in with real data. Recruiters look for impact, not just a job title. -->
+**Full Stack Web Developer — KivuGreen** · 2022 – 2026
+- Designed, built, deployed and maintained business applications end to end: application development, database design, and on-site deployment of software and hardware
+- Worked in a dual developer and technician role, close to end users, which shaped how I design for real-world usage
+- Applied OOP and functional patterns, ran code reviews and quality checks before each release
 
-**Full Stack Developer — SnapTech DRC** · [dates]
-- [What you built] using [stack], resulting in [measurable impact]
-- [Responsibility: code reviews, mentoring, architecture decisions, CI/CD...]
+**System Administrator — Elite Network** · Jul 2020 – Jan 2021
+- Administered systems within the technical department of an Internet service provider
+- Maintained installations and provided network support on live infrastructure
+
+### 🏗️ Key professional projects
+
+| Project | Period | What I did |
+|---------|--------|-----------|
+| **AfyaCare**: Hospital Management CRM | 2025 – present | Platform covering every hospital department end to end. Layered architecture and a fast, interactive React UI (code splitting, lazy loading, memoisation) |
+| **QMS-System**: Retail Management Software | May 2021 – present | Management software for hardware stores, deployed and maintained since 2021, used daily by more than five businesses in Kibabi. Object-oriented, modular architecture |
+| **E-MARA SANG**: Blood Bank Management | Nov 2020 – Jan 2021 | System deployed at CPTS Goma. Analyst and database designer, and trainer of the staff to ensure adoption |
+| **Subscriber Management**: Electricity Company | 2020 – 2021 | Full-featured application for managing subscribers and their operations, delivered as my final-year thesis and defended before a jury |
+
+---
+
+## 🎓 Training & education
+
+- **Full Stack Web Developer (MERN)**, Kadea Academy (formerly Kinshasa Digital Academy) · May 2022 – Feb 2023. Nine months of intensive training: React, React Native, Redux, Node.js, Express, SQL and NoSQL databases
+- **Linux Network Administration**, BT-Labs · Jul 2021 – Oct 2021. Network administration, configuration and security on Linux
+- **Graduate in Management Information Systems**, ISIG Goma · 2017 – 2021. Design of information systems and software development for organisations
+
+**Languages:** French (very good), English (very good), Swahili (very good)
 
 ---
 
