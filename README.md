@@ -130,7 +130,7 @@ I build software that works in the field. Since 2020, I have delivered managemen
 | Project | Period | What I did |
 |---------|--------|-----------|
 | **AfyaCare**: Hospital Management CRM | 2025 – present | Platform covering every hospital department end to end. Layered architecture and a fast, interactive React UI (code splitting, lazy loading, memoisation) |
-| **QMS-System**: Retail Management Software | May 2021 – present | Management software for hardware stores, deployed and maintained since 2021, used daily by more than five businesses in Kibabi. Object-oriented, modular architecture |
+| **QMS-System**: Retail Management Software | May 2022 – present | Management software for hardware stores, deployed and maintained since 2021, used daily by more than five businesses in Kibabi. Object-oriented, modular architecture |
 | **E-MARA SANG**: Blood Bank Management | Nov 2020 – Jan 2021 | System deployed at CPTS Goma. Analyst and database designer, and trainer of the staff to ensure adoption |
 | **Subscriber Management**: Electricity Company | 2020 – 2021 | Full-featured application for managing subscribers and their operations, delivered as my final-year thesis and defended before a jury |
 
