@@ -7,7 +7,7 @@
 Building reliable web products end to end, from database design to polished user interfaces.
 Based in Goma, DR Congo · Open to remote and international opportunities.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alexissenga.vercel.app-111?style=for-the-badge&logo=vercel&logoColor=white)](https://alexissenga.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alexissenga.vercel.app-111?style=for-the-badge&logo=vercel&logoColor=white)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis_Senga_Ngabo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-senga-ngabo-785b5a17a)
 [![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexxngabo@gmail.com)
 
