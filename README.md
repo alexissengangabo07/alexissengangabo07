@@ -1,33 +1,103 @@
-<h1 align="center">Hi 👋, I'm Alexis Senga Ngabo 🚀🚀</h1>
-<h3 align="center">A passionate full stack developer from Democratic Republic of Congo, proficient with JavaScript, React/Redux, Nodejs/Express, SQL. I am open to new opportunities and challenges.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [personal projects](https://github.com/alexissengangabo07?tab=repositories)
+# Alexis Senga Ngabo
 
-- 🌱 I’m currently learning **Nextjs and GraphQL**
+### Full Stack Developer · JavaScript / TypeScript · React · Node.js
 
-- 👯 I’m looking to collaborate on **Onpen Source Projects**
+Building reliable web products end to end, from database design to polished user interfaces.
+Based in Goma, DR Congo · Open to remote and international opportunities.
 
-- 👨‍💻 All of my projects are available at [https://github.com/alexissengangabo07?tab=repositories](https://github.com/alexissengangabo07?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alexissenga.vercel.app-111?style=for-the-badge&logo=vercel&logoColor=white)](https://alexissenga.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis_Senga_Ngabo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-senga-ngabo-785b5a17a)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexxngabo@gmail.com)
 
-- 💬 Ask me about **React/React Native, Redux and Express**
+</div>
 
-- 📫 How to reach me **alexxngabo@gmail.com**
+---
 
-- 📄 Know about my experiences [https://alexissenga.netlify.app/](https://alexissenga.netlify.app/)
+## 👋 About me
 
-- ⚡ Fun fact **I think I'm Funny**
+I'm a full stack developer working daily with the JavaScript/TypeScript ecosystem. I design and ship complete features: REST/GraphQL APIs, relational data models, and responsive React/Next.js front ends.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/alexissengangabo07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alexissengangabo07" height="30" width="40" /></a>
-<a href="https://twitter.com/alexis_ngab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexis_ngab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexis-senga-ngabo-785b5a17a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis-senga-ngabo-785b5a17a" height="30" width="40" /></a>
-<a href="https://codesandbox.com/alexissengangabo07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alexissengangabo07" height="30" width="40" /></a>
-<a href="https://fb.com/alexis.sengangabo.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexis.sengangabo.3" height="30" width="40" /></a>
-<a href="https://instagram.com/alexissenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexissenga" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uciaogeutfzqslfaqpem5xpq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uciaogeutfzqslfaqpem5xpq" height="30" width="40" /></a>
+<!-- TODO: add 1 sentence with your real years of experience and your strongest result, e.g.
+"X+ years building [type of products] for [type of clients], including [measurable result]." -->
+
+**What I bring to a team**
+- Clean, maintainable code and pragmatic architecture
+- Ownership of features from specification to production
+- Clear communication in a remote, multilingual context (French / English)
+
+---
+
+## 🛠️ Tech stack
+
+| Area | Technologies |
+|------|--------------|
+| **Frontend** | React, Next.js, Redux, TypeScript, JavaScript (ES6+), HTML5, SCSS |
+| **Backend** | Node.js, Express, REST APIs, GraphQL |
+| **Databases** | SQL (PostgreSQL / MySQL), Firebase |
+| **Tools & Workflow** | Git & GitHub, Postman, Linux, Figma, Vercel |
+
+<!-- TODO: add Docker, CI/CD (GitHub Actions), testing (Jest, React Testing Library, Cypress), AWS... only if you really use them -->
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,graphql,postgres,mysql,firebase,git,linux,figma,sass,vercel" alt="Tech stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 Featured projects
+
+<!-- Replace with your 3 to 4 best projects. For each: problem, stack, your role, live demo, repo. -->
+
+### 1. [Project name](https://github.com/alexissengangabo07/REPO)
+> One-line pitch: what problem it solves and for whom.
+
+- **Stack:** Next.js, TypeScript, Node.js, PostgreSQL
+- **Highlights:** authentication, role management, API design, deployment
+- 🔗 [Live demo](https://example.com) · [Source code](https://github.com/alexissengangabo07/REPO)
+
+### 2. [Quiz App](https://github.com/alexissengangabo07/quizApp)
+> Interactive quiz application built during my training at Goma Digital Academy.
+
+- **Stack:** JavaScript
+- 🔗 [Live demo](https://gda-quiz.vercel.app/) · [Source code](https://github.com/alexissengangabo07/quizApp)
+
+### 3. [Project name](https://github.com/alexissengangabo07/REPO)
+> One-line pitch.
+
+- **Stack:** React, Redux, Express, SQL
+- 🔗 [Live demo](https://example.com) · [Source code](https://github.com/alexissengangabo07/REPO)
+
+---
+
+## 💼 Experience
+
+<!-- TODO: fill in with real data. Recruiters look for impact, not just a job title. -->
+
+**Full Stack Developer — SnapTech DRC** · [dates]
+- [What you built] using [stack], resulting in [measurable impact]
+- [Responsibility: code reviews, mentoring, architecture decisions, CI/CD...]
+
+---
+
+## 🌱 Currently
+
+- Deepening **Next.js** and **GraphQL** in production-style projects
+- Improving test coverage and CI/CD practices
+- Open to **open source** collaboration
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexissengangabo07&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexissengangabo07&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 📫 Let's connect
+
+Open to full stack opportunities (remote or on-site). The fastest way to reach me is by [email](mailto:alexxngabo@gmail.com) or [LinkedIn](https://linkedin.com/in/alexis-senga-ngabo-785b5a17a).
